@@ -1,0 +1,45 @@
+[
+    {
+      "name": "George Washington",
+      "groups": [
+        "managers",
+        "guests",
+        "operators"
+      ],
+      "id": 5055
+    },
+    {
+      "name": "Thomas Jefferson",
+      "groups": [
+        "users",
+        "guests"
+      ],
+      "id": 9333
+    },
+    {
+      "name": "Abraham Lincoln",
+      "groups": [
+        "guests",
+        "admins"
+      ],
+      "id": 4734
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "groups": [
+        "managers",
+        "users",
+        "guests"
+      ],
+      "id": 9852
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "groups": [
+        "users",
+        "guests"
+      ],
+      "id": 7563
+    }
+  ]
+  
