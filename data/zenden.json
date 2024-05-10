@@ -3,70 +3,70 @@
       "ticket": {
         "url": "https://helpdesk.zendesk.com/api/v2/tickets/1.json",
         "id": 1,
-        "subject": "Ticket Subject 1"
+        "subject": "Ticket 1"
       }
     },
     {
       "ticket": {
         "url": "https://support.zendesk.com/api/v2/tickets/2.json",
         "id": 2,
-        "subject": "Ticket Subject 2"
+        "subject": "Ticket 2"
       }
     },
     {
       "ticket": {
         "url": "https://service.zendesk.com/api/v2/tickets/3.json",
         "id": 3,
-        "subject": "Ticket Subject 3"
+        "subject": "Ticket 3"
       }
     },
     {
       "ticket": {
         "url": "https://tech.zendesk.com/api/v2/tickets/4.json",
         "id": 4,
-        "subject": "Ticket Subject 4"
+        "subject": "Ticket 4"
       }
     },
     {
       "ticket": {
         "url": "https://customer.zendesk.com/api/v2/tickets/5.json",
         "id": 5,
-        "subject": "Ticket Subject 5"
+        "subject": "Ticket 5"
       }
     },
     {
       "ticket": {
         "url": "https://query.zendesk.com/api/v2/tickets/6.json",
         "id": 6,
-        "subject": "Ticket Subject 6"
+        "subject": "Ticket 6"
       }
     },
     {
       "ticket": {
         "url": "https://desk.zendesk.com/api/v2/tickets/7.json",
         "id": 7,
-        "subject": "Ticket Subject 7"
+        "subject": "Ticket 7"
       }
     },
     {
       "ticket": {
         "url": "https://issue.zendesk.com/api/v2/tickets/8.json",
         "id": 8,
-        "subject": "Ticket Subject 8"
+        "subject": "Ticket 8"
       }
     },
     {
       "ticket": {
         "url": "https://request.zendesk.com/api/v2/tickets/9.json",
         "id": 9,
-        "subject": "Ticket Subject 9"
+        "subject": "Ticket 9"
       }
     },
     {
       "ticket": {
         "url": "https://ticket.zendesk.com/api/v2/tickets/10.json",
         "id": 10,
-        "subject": "Ticket Subject 10"
+        "subject": "Ticket 10"
       }
     }
   ]
